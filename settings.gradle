@@ -1,0 +1,1 @@
+include ':libjingle_peerconnection', ':apprtcdemo'

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebRTC_demo.iml" filepath="$PROJECT_DIR$/WebRTC_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apprtcdemo/apprtcdemo.iml" filepath="$PROJECT_DIR$/apprtcdemo/apprtcdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libjingle_peerconnection/libjingle_peerconnection.iml" filepath="$PROJECT_DIR$/libjingle_peerconnection/libjingle_peerconnection.iml" />
+    </modules>
+  </component>
+</project>
